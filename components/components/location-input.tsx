@@ -116,7 +116,7 @@ export default function LocationInput() {
         <ul className="list-disc text-muted-foreground ml-4">
           <li>
             <Link
-              href="https://github.com/hasanharman/form-builder/blob/main/data/countries.json"
+              href="https://github.com/rahulkrchoudhary"
               target="_blank"
               className="hover:underline"
             >
@@ -125,7 +125,7 @@ export default function LocationInput() {
           </li>
           <li>
             <Link
-              href="https://github.com/hasanharman/form-builder/blob/main/data/states.json"
+              href="https://github.com/rahulkrchoudhary"
               target="_blank"
               className="hover:underline"
             >

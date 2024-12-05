@@ -56,7 +56,7 @@ export default function ReadmePage() {
         <h1 className="text-3xl font-bold">Introduction</h1>
         <p className="text-muted-foreground">
           As a developer, I’ve grown tired of repeatedly creating forms
-          throughout my career. Thanks to Rahul, the process is now much easier
+          throughout my career. Thanks to Rahul Form Builder, the process is now much easier
           and the results look far better. After dedicating significant time to
           working on forms, I decided to invest even more and create this
           open-source project (coming soon) to share my work with the community.
@@ -70,36 +70,9 @@ export default function ReadmePage() {
           soft spot for overengineering. Why take the easy route when you can
           make it extra?
         </p>
-        <p className="text-muted-foreground">
-          I plan to open source this project as soon as I complete my roadmap,
-          so stay tuned! In the meantime, feel free to DM me on{' '}
-          <Link href="https://x.com/strad3r" target="_blank">
-            Twitter
-          </Link>{' '}
-          (yes, it’s still Twitter for me).
-        </p>
+       >
       </div>
-      <div className="space-y-4 ">
-        <h2 className="text-3xl font-bold">Resources</h2>
-        <p className="text-muted-foreground">
-          A huge thanks to the following developers! I truly appreciate their
-          contributions to the community. I want to clarify that I haven’t
-          reached out to ask for permission to use their work, but if they
-          contact me with any concerns about removal, I will address it
-          immediately.
-        </p>
-        <div className="flex gap-2">
-          {resourcesList.map((item: UserLinkProps, index: number) => (
-            <UserLink
-              key={index}
-              href={item.href}
-              avatarSrc={item.avatarSrc}
-              name={item.name}
-              xLink={item.xLink}
-            />
-          ))}
-        </div>
-      </div>
+      
     </section>
   )
 }
