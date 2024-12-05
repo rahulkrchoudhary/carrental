@@ -42,12 +42,7 @@ type Tabs = {
 
 const tabs: Tabs[] = [
   { name: 'Hi', href: '/readme', variant: 'smile' },
-  {
-    name: 'Roadmap',
-    href: 'https://shadcnform.featurebase.app/',
-    variant: 'arrow',
-    isNewTab: true,
-  },
+ 
   { name: 'Components', href: '/components', variant: 'linkHover2' },
   { name: 'Templates', href: '/templates', variant: 'linkHover2' },
 ]
@@ -103,7 +98,7 @@ export default function Header() {
           </Button>
         </Link>
         <Link
-          href="https://github.com/hasanharman/form-builder"
+          href="https://github.com/rahulkrchoudhary"
           target="_blank"
         >
           <Button variant="outline" className="rounded-full p-2">
@@ -131,7 +126,7 @@ export default function Header() {
               <DrawerFooter>
                 <div className="flex justify-end space-x-2">
                   <Link
-                    href="https://github.com/hasanharman/form-builder"
+                    href="https://github.com/rahulkrchoudhary"
                     target="_blank"
                   >
                     <Button variant="outline" className="rounded-full p-2">
