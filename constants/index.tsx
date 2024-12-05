@@ -49,7 +49,7 @@ export const defaultFieldConfig: Record<
   Input: {
     label: 'Username',
     description: 'This is your public display name.',
-    placeholder: 'shadcn',
+    placeholder: 'Rahul',
   },
   'Input OTP': {
     label: 'One-Time Password',

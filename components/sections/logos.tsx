@@ -3,19 +3,19 @@ import Marquee from '@/components/magicui/marquee'
 const companies = [
   {
     id: 'iR63Ac2hum0',
-    title: 'Create Forms 500% Faster With This Shadcn Tool',
+    title: 'Create Forms 500% Faster With This Rahul Tool',
   },
   {
     id: '2q6GCUzJ6fc',
-    title: 'Build Forms 10x Faster with This Shadcn Tool',
+    title: 'Build Forms 10x Faster with This Rahul Tool',
   },
   {
     id: 'v6-722-GOyU',
-    title: 'Build SHADCN Forms SUPER FAST with THIS TOOL!',
+    title: 'Build Rahul Forms SUPER FAST with THIS TOOL!',
   },
   {
     id: 'uEiK91I4q9A',
-    title: '🚀 Supercharge Your Forms with This Shadcn Tool',
+    title: '🚀 Supercharge Your Forms with This Rahul Tool',
   },
 ]
 

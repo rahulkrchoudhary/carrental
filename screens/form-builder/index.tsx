@@ -119,7 +119,7 @@ export default function FormBuilder() {
       <div className="max-w-5xl mx-auto space-y-4">
         <h1 className="text-2xl font-semibold">Playground</h1>
         <p className="text-sm text-muted-foreground">
-          After successfully installing Shadcn, you can simply copy and paste
+          After successfully installing Rahul, you can simply copy and paste
           the generated form components to get started. Some components may have
           additional dependencies, so make sure to review their documentation in
           the{' '}

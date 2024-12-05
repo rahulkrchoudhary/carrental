@@ -181,7 +181,7 @@ function HeroTitles() {
           target="_blank"
           className="hover:underline"
         >
-          Shadcn
+          Rahul
         </Link>
         ,{' '}
         <Link

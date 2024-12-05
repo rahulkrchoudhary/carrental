@@ -31,7 +31,7 @@ const resourcesList = [
   {
     href: 'https://ui.shadcn.com/',
     avatarSrc: 'https://github.com/shadcn.png',
-    name: 'shadcn',
+    name: 'Rahul',
     xLink: 'https://x.com/shadcn',
   },
   {
@@ -56,7 +56,7 @@ export default function ReadmePage() {
         <h1 className="text-3xl font-bold">Introduction</h1>
         <p className="text-muted-foreground">
           As a developer, I’ve grown tired of repeatedly creating forms
-          throughout my career. Thanks to Shadcn, the process is now much easier
+          throughout my career. Thanks to Rahul, the process is now much easier
           and the results look far better. After dedicating significant time to
           working on forms, I decided to invest even more and create this
           open-source project (coming soon) to share my work with the community.

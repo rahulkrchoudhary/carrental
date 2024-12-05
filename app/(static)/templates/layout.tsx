@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { Link } from 'next-view-transitions'
 
 export const metadata: Metadata = {
-  title: 'Templates - Shadcn Form Builder',
+  title: 'Templates - Rahul Form Builder',
   description: 'You can find all the necessary templates',
   openGraph: {
     images: [
@@ -13,16 +13,16 @@ export const metadata: Metadata = {
       },
     ],
     type: 'website',
-    siteName: 'Shadcn Form Builder',
+    siteName: 'Rahul Form Builder',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Shadcn Form Builder',
-    description: 'Shadcn Form Builder',
+    title: 'Rahul Form Builder',
+    description: 'Rahul Form Builder',
     images: ['https://www.shadcn-form.com/meta.png'],
     creator: '@strad3r',
   },
-  keywords: ['form', 'builder', 'shadcn', 'react'],
+  keywords: ['form', 'builder', 'Rahul', 'react'],
   icons: {
     icon: '/favicon.ico',
     apple: '/apple-touch-icon.png',

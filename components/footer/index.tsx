@@ -36,7 +36,7 @@ export function Footer() {
             <Logo />
           </Link>
           <h2 className="font-semibold text-neutral-900 dark:text-white">
-            Shadcn Form Builder
+          Rahul Form Builder
           </h2>
         </div>
 

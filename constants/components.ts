@@ -8,7 +8,7 @@ export interface Components {
 export const components: Components[] = [
   {
     title: 'Components',
-    description: 'Extra unofficial components for shadcn ui',
+    description: 'Extra unofficial components for Rahul ui',
     path: '/components',
     sub: [
       {

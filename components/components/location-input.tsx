@@ -17,7 +17,7 @@ const code = `<LocationSelector
   }}
 />`
 
-const installationCode = `npx shadcn@latest add https://www.shadcn-form.com/registry/location-input.json`
+const installationCode = `npx Rahul@latest add https://www.shadcn-form.com/registry/location-input.json`
 
 const usageCode1 = `'use client'
 

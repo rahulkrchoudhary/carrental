@@ -15,7 +15,7 @@ const code = `<Autocomplete
   onChange={field.onChange}
 />`
 
-const installationCode = `npx shadcn@latest add https://www.shadcn-form.com/registry/autocomplete.json`
+const installationCode = `npx Rahul@latest add https://www.shadcn-form.com/registry/autocomplete.json`
 
 const usageCode1 = `import Autocomplete from '@/components/ui/autocomplete'`
 
