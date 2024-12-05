@@ -23,7 +23,7 @@ type Link = {
 
 const links: Link[] = [
   { text: 'Readme', url: '/readme' },
-  { text: 'Features', url: 'https://shadcnform.featurebase.app/' },
+ 
   { text: 'Playground', url: '/playground' },
 ]
 
