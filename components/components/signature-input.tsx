@@ -100,7 +100,7 @@ export default function Component() {
         <ul className="list-disc text-muted-foreground ml-4">
           <li>
             <Link
-              href="https://github.com/hasanharman/form-builder/blob/main/data/countries.json"
+              href="https://github.com/rahulkrchoudhary
               target="_blank"
               className="hover:underline"
             >
@@ -109,7 +109,7 @@ export default function Component() {
           </li>
           <li>
             <Link
-              href="https://github.com/hasanharman/form-builder/blob/main/data/states.json"
+              href="https://github.com/rahulkrchoudhary"
               target="_blank"
               className="hover:underline"
             >

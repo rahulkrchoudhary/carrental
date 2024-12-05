@@ -105,11 +105,7 @@ export default function Header() {
             <LuGithub className="text-lg" />
           </Button>
         </Link>
-        <Link href="https://x.com/strad3r" target="_blank">
-          <Button variant="outline" className="rounded-full p-2">
-            <FaXTwitter className="text-lg" />
-          </Button>
-        </Link>
+        
         <ThemeSwitch />
       </div>
 
@@ -134,11 +130,7 @@ export default function Header() {
                     </Button>
                   </Link>
 
-                  <Link href="https://x.com/strad3r" target="_blank">
-                    <Button variant="outline" className="rounded-full p-2">
-                      <FaXTwitter className="text-lg" />
-                    </Button>
-                  </Link>
+                 
                   <ThemeSwitch />
                 </div>
 

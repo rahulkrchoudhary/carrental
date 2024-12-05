@@ -41,7 +41,7 @@ To get started with Form Builder, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hasanharman/form-builder.git
+   git clone https://github.com/rahulkrchoudhary
    ```
 
 2. Navigate into the project directory:
