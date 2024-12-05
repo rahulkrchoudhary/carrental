@@ -70,7 +70,7 @@ export default function ReadmePage() {
           soft spot for overengineering. Why take the easy route when you can
           make it extra?
         </p>
-       >
+       
       </div>
       
     </section>

@@ -11,9 +11,9 @@ interface Icon {
 }
 
 const icons: Icon[] = [
-  { icon: <LuGithub />, url: 'https://github.com/hasanharman/form-builder' },
-  { icon: <FaXTwitter />, url: 'https://x.com/strad3r' },
-  { icon: <LuMail />, url: 'mailto:hasanharman33@gmail.com' },
+  { icon: <LuGithub />, url: 'https://github.com/rahulkrchoudhary' },
+ 
+  { icon: <LuMail />, url: 'mailto:rahulkr.choudhary9@gmail.com' },
 ]
 
 type Link = {
