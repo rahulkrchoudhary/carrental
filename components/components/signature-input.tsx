@@ -15,7 +15,7 @@ const code = `<SignatureInput
   onSignatureChange={field.onChange}
 />`
 
-const installationCode = `npx shadcn@latest add https://www.shadcn-form.com/registry/signature-input.json`
+const installationCode = `npm i `
 
 const usageCode1 = `'use client'
 
